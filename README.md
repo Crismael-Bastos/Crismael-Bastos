@@ -1,4 +1,4 @@
-<h1> Olá pessoal eu me chamo Crismael e sou amante de tecnlogia, me descobri na área de progamação quando comecei a ter interesse na área de blockchain e desde então não paro mais, pois estou sempre buscando aprender novas tecnologias e aplicá-las. </h1>
+<h1> Olá pessoal eu me chamo Crismael e sou amante de tecnlogia, me descobri na progamação quando comecei a ter interesse na área de blockchain e desde então não paro mais, pois estou sempre buscando aprender novas tecnologias e aplicá-las. </h1>
 <div align="center">
    <a href="https://github.com/crismael-bastos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crismael-bastos&show_icons=true&theme=tokyonight&include_all_commits-true&count_private=true"/>
