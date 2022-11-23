@@ -1,4 +1,6 @@
-<h1> Olá pessoal eu me chamo Crismael e sou amante de tecnlogia, me descobri na progamação quando comecei a ter interesse na área de blockchain e desde então não paro mais, pois estou sempre buscando aprender novas tecnologias e aplicá-las. </h1>
+# Olá pessoal eu me chamo Crismael 
+## Sou estudante de Análise e Desenvolvimento de Sistemas, comecei meu interesse por progamação quando conheci a blockchain e web3 em geral no final de 2021 quando comecei a fazer investimentos em cryptomoedas. E em maio de 2022 comecei a fazer alguns cursos de python e outras tecnologias, afim de aprimorar meus conhecimentos ainda mais e entrar de vez na área decidi então entrar na faculdade de ADS.
+
 <div align="center">
    <a href="https://github.com/crismael-bastos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crismael-bastos&show_icons=true&theme=tokyonight&include_all_commits-true&count_private=true"/>
