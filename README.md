@@ -1,5 +1,5 @@
 # Olá pessoal eu me chamo Crismael 😄 
-## Sou estudante de Análise e Desenvolvimento de Sistemas, comecei meu interesse por progamação quando conheci a blockchain e web3 em geral lá no final de 2021, momento em que comecei a fazer investimentos em cryptomoedas. E em maio de 2022 comecei a fazer alguns cursos de python e outras tecnologias, afim de aprimorar meus conhecimentos ainda mais e entrar de vez na área decidi então entrar na faculdade de ADS.
+## Sou estudante de Análise e Desenvolvimento de Sistemas, comecei meu interesse por programação quando conheci a blockchain e web3 em geral lá no final de 2021, momento em que comecei a fazer investimentos em cryptomoedas. E em maio de 2022 comecei a fazer alguns cursos de python e outras tecnologias, afim de aprimorar meus conhecimentos ainda mais e entrar de vez na área decidi então entrar na faculdade de ADS.
 
 <div align="center">
    <a href="https://github.com/crismael-bastos">
